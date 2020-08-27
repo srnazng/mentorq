@@ -91,7 +91,7 @@ const Login = () => {
           <LockOutlinedIcon />
         </Avatar>
         <Typography component="h1" variant="h5">
-          MentorQ Sign in
+          Sign in
       </Typography>
 
         <form className={classes.form}>
